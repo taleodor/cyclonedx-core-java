@@ -20,8 +20,8 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.cyclonedx</groupId>
-    <artifactId>cyclonedx-core-java</artifactId>
+    <groupId>io.reliza</groupId>
+    <artifactId>cyclonedx-core-java-mirror</artifactId>
     <packaging>jar</packaging>
     <version>7.3.1-SNAPSHOT</version>
 
